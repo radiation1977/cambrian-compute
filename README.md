@@ -1,8 +1,9 @@
 # Cambrian-Compute: Massive Parallel Computing Framework for Ordinary Computing Nodes
 
-* Hive-Compute is a distributed computing framework designed to achieve High-Performance Computing (HPC) levels of computation by harnessing the power of a large swarm of commodity, non-specialized computing nodes. The project's description states it is a "Low-Budget Massive Parallel Computing framework - distributed computing for everyone (wealthy users are welcome, too)". The framework is designed to distribute computational jobs, such as matrix multiplication and sorting algorithms, across a large number of nodes to achieve massive parallelism.
+* Cambrian-Compute is a distributed computing framework designed to achieve High-Performance Computing (HPC) levels of computation by harnessing the power of a large swarm of commodity, non-specialized computing nodes. The project's description states it is a "Low-Budget Massive Parallel Computing framework - distributed computing for everyone (wealthy users are welcome, too)". The framework is designed to distribute computational jobs, such as matrix multiplication and sorting algorithms, across a large number of nodes to achieve massive parallelism.
 * PS: future versions will have more client<->server capabilities for non-computational tasks.
 * Actual source code is in a private repository until patents / copyrights are secured (a small piece of it will likely be kept secret forever).
+* Sovereign computing is a natural consequence of the swarm<->ant<->pheremone architecture, where the user sets up her many computers with the tiny binary from Cambrian Radiation and then restricts the network communications to some masks or any other way. An user in the E.U., for instance, can be sure that her data will never be leaked **by design** - even the possible paywalls will just add a cryptographed expiration date instrad of network access to Cambrian Radiation. ITAR verification is under development, as well as a series of other standards/audit specs.
 
 ## Core Concepts
 
