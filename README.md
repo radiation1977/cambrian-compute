@@ -1,6 +1,8 @@
 # Cambrian-Compute: Massive Parallel Computing Framework for Ordinary Computing Nodes
 
-Hive-Compute is a distributed computing framework designed to achieve High-Performance Computing (HPC) levels of computation by harnessing the power of a large swarm of commodity, non-specialized computing nodes. The project's description states it is a "Low-Budget Massive Parallel Computing framework - distributed computing for everyone (wealthy users are welcome, too)". The framework is designed to distribute computational jobs, such as matrix multiplication and sorting algorithms, across a large number of nodes to achieve massive parallelism. PS: future versions will have more client<->server capabilities for non-computational tasks.
+* Hive-Compute is a distributed computing framework designed to achieve High-Performance Computing (HPC) levels of computation by harnessing the power of a large swarm of commodity, non-specialized computing nodes. The project's description states it is a "Low-Budget Massive Parallel Computing framework - distributed computing for everyone (wealthy users are welcome, too)". The framework is designed to distribute computational jobs, such as matrix multiplication and sorting algorithms, across a large number of nodes to achieve massive parallelism.
+* PS: future versions will have more client<->server capabilities for non-computational tasks.
+* Actual source code is in a private repository until patents / copyrights are secured.
 
 ## Core Concepts
 
